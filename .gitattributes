@@ -1,2 +1,6 @@
 navicat17_premium_lite_cs_x64.exe filter=lfs diff=lfs merge=lfs -text
 VMware-workstation-full-17.5.0-22583795.exe filter=lfs diff=lfs merge=lfs -text
+CobaltStrike4.8汉化版.zip filter=lfs diff=lfs merge=lfs -text
+CTFCrackTools.7z filter=lfs diff=lfs merge=lfs -text
+docker-compose-linux-x86_64 filter=lfs diff=lfs merge=lfs -text
+HexHub-amd64-default-1.2.8.exe filter=lfs diff=lfs merge=lfs -text
